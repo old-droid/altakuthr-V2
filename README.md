@@ -1,4 +1,5 @@
-# AI Automation Assistant
+# AI Automation Assistant    ![meow](https://github.com/user-attachments/assets/07029d2a-84ac-4fd0-a076-ed58d992961c)
+
 
 Automates desktop interactions using computer vision and natural language processing.
 
